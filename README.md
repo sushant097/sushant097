@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **sushant1234gautam@gmail.com**
 
+📕 Latest Blog Posts
+- <a href url="https://medium.com/swlh/learn-and-use-handwritten-line-text-recognition-using-deep-learning-with-tensorflow-b661434b5e3b">How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning</a>
+- <a href url="https://susant.medium.com/simple-way-to-install-cassandra-in-windows-10-6497e93989e6">Simple Way to Install Cassandra In Windows 10</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/susan-gautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="susan-gautam" height="30" width="40" /></a>
