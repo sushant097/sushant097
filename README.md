@@ -19,14 +19,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Sushant Gautam</h1>
 <h3 align="center">I am Machine Learning/Computer Vision Engineer. I love to use research to make innovative products with AI. I am looking forward to use machine learning for good.</h3>
 
-- 🌱 I’m currently Learning **everything**
+- 🌱 I’m currently Learning **everything in AI**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** in Deep Learning.
+- 💬 Ask me about Deep Learning - Computer Vision.
+- ⚡ Fun fact: Love to unique projects and simpligy concepts in Deep Learning.
+- 📫 How to reach me: Email: sushantgautm@gmail.com , <a href url="https://www.linkedin.com/in/susan-gautam/">LinkedIn</a>
 
 
 📕 Latest Blog Posts
 - <a href url="https://medium.com/swlh/learn-and-use-handwritten-line-text-recognition-using-deep-learning-with-tensorflow-b661434b5e3b">How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning</a>
 - <a href url="https://susant.medium.com/simple-way-to-install-cassandra-in-windows-10-6497e93989e6">Simple Way to Install Cassandra In Windows 10</a>
+- <a href url="https://susant.medium.com/intuition-behind-gan-for-beginners-bb4da5c54480">Intuition behind GAN for Beginners</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/susan-gautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="susan-gautam" height="30" width="40" /></a>
