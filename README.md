@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently Learning **everything in AI**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** in Deep Learning.
-- 💬 Ask me about Deep Learning - Computer Vision.
-- ⚡ Fun fact: Love to unique projects and simpligy concepts in Deep Learning.
+- 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA and C++.
+- ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
 - 📫 How to reach me: Email: sushantgautm@gmail.com , <a href url="https://www.linkedin.com/in/susan-gautam/">LinkedIn</a>
 
 
