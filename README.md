@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Open Source Projects** in Deep Learning.
 - 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA and C++.
 - ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
-- 📫 How to reach me: Email: sushantgautm@gmail.com , <a href url="https://www.linkedin.com/in/susan-gautam/">LinkedIn</a>
+- 📫 How to reach me: Email: sushantgautm@gmail.com , <a href url="https://sushant097.github.io/">Portfolio</a>, <a href url="https://www.linkedin.com/in/susan-gautam/">LinkedIn</a>
 
 
 📕 Latest Blog Posts
 - <a href url="https://medium.com/swlh/learn-and-use-handwritten-line-text-recognition-using-deep-learning-with-tensorflow-b661434b5e3b">How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning</a>
 - <a href url="https://susant.medium.com/simple-way-to-install-cassandra-in-windows-10-6497e93989e6">Simple Way to Install Cassandra In Windows 10</a>
 - <a href url="https://susant.medium.com/intuition-behind-gan-for-beginners-bb4da5c54480">Intuition behind GAN for Beginners</a>
+- <a href url="https://susant.medium.com/basic-intuition-on-neural-style-transfer-idea-c5ac179d1530">Basic Intuition And Guide to Neural Style Transfer</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
