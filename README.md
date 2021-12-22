@@ -21,10 +21,13 @@ Here are some ideas to get you started:
 
 - 🌱 Research Areas **Computer Vision: Object Detection and tracking, GANs, segmentation etc.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects** in Deep Learning.
+- 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning.
 - 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA and C++.
 - ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
-- 📫 How to reach me: Email: sushantgautm@gmail.com , [Portfolio](https://sushant097.github.io/), [LinkedIn](https://www.linkedin.com/in/susan-gautam/)
+- 📫 How to reach me: 
+  -  Email: sushantgautm@gmail.com 
+  -    [Portfolio](https://sushant097.github.io/)
+  -    [LinkedIn](https://www.linkedin.com/in/susan-gautam/)
 
 
 📕 Latest Blog Posts
