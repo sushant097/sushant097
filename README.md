@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
- <h1 align="center">Hi there 👋 I'm Sushant Gautam</h1> [Read More](https://sushant097.github.io/)
+ <h1 align="center">Hi there 👋 I'm Sushant Gautam</h1> <h4 align="right"></h4>
+ 
 
-<h3 align="center">I am Machine Learning/Computer Vision Engineer. I love to use research to make innovative products with AI. I am looking forward to use machine learning for good.</h3>
+<h3 align="center">I am Machine Learning/Computer Vision Engineer. I love to use research to make innovative products with AI. I am looking forward to use machine learning for good. <br/> <b><a href="https://sushant097.github.io/">Read More</a></b></h3>
 
+ 
+![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
 
 - 🌱 Research Areas: **Computer Vision: Object Detection and tracking, GANs, segmentation etc.**
 
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 - [Basic Intuition And Guide to Neural Style Transfer](https://susant.medium.com/basic-intuition-on-neural-style-transfer-idea-c5ac179d1530)
 - [Simple Way to Install Cassandra In Windows 10](https://susant.medium.com/simple-way-to-install-cassandra-in-windows-10-6497e93989e6)
 
-![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
