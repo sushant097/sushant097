@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- <h1 align="center">Hi there 👋 I'm Sushant Gautam</h1>
+ <h1 align="center">Hi there 👋 I'm Sushant Gautam</h1> [Read More](https://sushant097.github.io/)
 
 <h3 align="center">I am Machine Learning/Computer Vision Engineer. I love to use research to make innovative products with AI. I am looking forward to use machine learning for good.</h3>
 
