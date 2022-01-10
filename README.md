@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h1 align="center">Hi there 👋 I'm Sushant Gautam</h1> <h4 align="right"></h4>
  
 
-<h3 align="center">I am Machine Learning/Computer Vision Engineer. I love to use research to make innovative products with AI. I am looking forward to use machine learning for good. <br/> <b><a href="https://sushant097.github.io/">Read More</a></b></h3>
+<h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching important AI real problems. I'm excited to put machine learning to good use. <br/> <b><a href="https://sushant097.github.io/">Read More</a></b></h3>
 
  
 ![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
