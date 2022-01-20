@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching important AI real problems. I'm excited to put machine learning to good use. <br/> <b><a href="https://sushant097.github.io/">Read More</a></b></h3>
 
- 
-![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
+
 
 - 🌱 Research Areas: **Computer Vision: Object Detection and tracking, GANs, segmentation etc.**
 
@@ -35,13 +34,13 @@ Here are some ideas to get you started:
   -    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
-📕 Latest Blog Posts
+📕 Latest Blog Posts. See all posts in [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://susant.medium.com/)
 - [How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning](https://medium.com/swlh/learn-and-use-handwritten-line-text-recognition-using-deep-learning-with-tensorflow-b661434b5e3b)
 - [Intuition behind GAN for Beginners](https://susant.medium.com/intuition-behind-gan-for-beginners-bb4da5c54480)
 - [Basic Intuition And Guide to Neural Style Transfer](https://susant.medium.com/basic-intuition-on-neural-style-transfer-idea-c5ac179d1530)
 - [Simple Way to Install Cassandra In Windows 10](https://susant.medium.com/simple-way-to-install-cassandra-in-windows-10-6497e93989e6)
 
-
+![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
