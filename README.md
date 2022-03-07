@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/susan-gautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="susan-gautam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7338066" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7338066" height="30" width="40" /></a>
-<a href="https://kaggle.com/sushant097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sushant097" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/sushant097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sushant097" height="30" width="40" /></a> -->
 <a href="https://medium.com/@susant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@susant" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/learn_019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="learn_019" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/learn_019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="learn_019" height="30" width="40" /></a> -->
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant097&show_icons=true&theme=algolia&locale=en" alt="sushant097" /></p>
