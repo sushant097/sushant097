@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 Research Areas: **Computer Vision: Object Detection and tracking, GANs, segmentation etc.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning.
-- 🥅 2022 Goals: Read more Deep Learning research papers and try to build from scratch including computer vision, GANs, few-shot learning, NLP, Image Segmentation etc.
+- 🥅 2023 Goals: Read more Deep Learning research papers and try to build from scratch including computer vision, GANs, few-shot learning, NLP, Image Segmentation etc. And looking forward to join PhD in CS.
 - 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA and C++.
 - ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
 - 📫 How to reach me: 
