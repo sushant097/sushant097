@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 ------------------------------------------------------------
 #### Important Repository
-💾 30 Days of GANs Paper Reading [🔗](https://github.com/sushant097/30-Days-GANs-Paper-Reading)
+💾 Deep Learning Paper Reading [🔗](https://github.com/sushant097/30-Days-GANs-Paper-Reading)
 ------------------------------------------------------------
 Thanks for visit my profile.
