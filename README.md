@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - 🌱 Research Areas: **Computer Vision: Object Detection and tracking, GANs, segmentation etc.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning.
-- 🥅 2023 Goals: Read more Deep Learning research papers and try to build from scratch including computer vision, GANs, few-shot learning, NLP, Image Segmentation etc. And looking forward to join PhD in CS.
-- 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA and C++.
-- ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
+- 🥅 2024 Goals: Read more Deep Learning research papers and try to build from scratch, including computer vision, GANs, few-shot learning, NLP, Image Segmentation, etc. I am looking forward to getting the AWS ML Specialization Certification exam.
+- 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA, and C++.
+- ⚡ Fun fact: I love to do unique projects and simplify concepts in Deep Learning.
 - 📫 How to reach me: 
   -    [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sushant097.github.io/)
   -    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
