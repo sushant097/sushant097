@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   -    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
-📕 Latest Blog Posts. See all posts in [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://susant.medium.com/](https://medium.com/@sushantgautm))
+📕 Latest Blog Posts. See all posts in [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@sushantgautm)
 - [How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning](https://sushantgautm.medium.com/how-to-make-real-time-handwritten-text-recognition-with-augmentation-and-deep-learning-9281323d80c1)
 - [Intuition behind GAN for Beginners](https://medium.com/@sushantgautm/the-intuition-behind-gans-for-beginners-63b0b761961b)
 - [Basic Intuition And Guide to Neural Style Transfer](https://medium.com/@sushantgautm/basic-intuition-and-guide-to-neural-style-transfer-daf7022d6883)
