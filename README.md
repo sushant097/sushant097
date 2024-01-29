@@ -34,11 +34,11 @@ Here are some ideas to get you started:
   -    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
-📕 Latest Blog Posts. See all posts in [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://susant.medium.com/)
-- [How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning](https://medium.com/swlh/learn-and-use-handwritten-line-text-recognition-using-deep-learning-with-tensorflow-b661434b5e3b)
-- [Intuition behind GAN for Beginners](https://susant.medium.com/intuition-behind-gan-for-beginners-bb4da5c54480)
-- [Basic Intuition And Guide to Neural Style Transfer](https://susant.medium.com/basic-intuition-on-neural-style-transfer-idea-c5ac179d1530)
-- [Simple Way to Install Cassandra In Windows 10](https://susant.medium.com/simple-way-to-install-cassandra-in-windows-10-6497e93989e6)
+📕 Latest Blog Posts. See all posts in [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://susant.medium.com/](https://medium.com/@sushantgautm))
+- [How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning]([https://medium.com/swlh/learn-and-use-handwritten-line-text-recognition-using-deep-learning-with-tensorflow-b661434b5e3b](https://sushantgautm.medium.com/how-to-make-real-time-handwritten-text-recognition-with-augmentation-and-deep-learning-9281323d80c1))
+- [Intuition behind GAN for Beginners](https://medium.com/@sushantgautm/the-intuition-behind-gans-for-beginners-63b0b761961b)
+- [Basic Intuition And Guide to Neural Style Transfer](https://medium.com/@sushantgautm/basic-intuition-and-guide-to-neural-style-transfer-daf7022d6883)
+- [Simple and Intuitive Explanation of YOLO](https://medium.com/@sushantgautm/simple-and-intuitive-explanation-of-yolo-fc8fe231e2da)
 
 ![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
 
