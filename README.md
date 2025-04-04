@@ -1,44 +1,35 @@
 
 
-<!--
-**sushant097/sushant097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h1>👋 Hey there! I'm Sushant Gautam</h1>
 
-Here are some ideas to get you started:
+🚀 I'm passionate about building intelligent, scalable applications that connect deep learning research with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m into:
+- 🤖 **Computer Vision** – turning pixels into predictions.
+- ⚙️ **MLOps** – streamlining end-to-end ML workflows, from data to deployment.
+- 📦 Building **real-world AI applications** with clean architecture and robust pipelines.
 
+### 🤝 Open to Collaborate:
+- 🧑‍💻 **Open Source Projects**  
+- 📚 **Research** in Deep Learning & AI Systems  
+- 🧪 Experimenting with production-level ML systems
 
- <h1 align="center">Hi there 👋 I'm Sushant Gautam</h1> <h4 align="right"></h4>
- 
+### 🎯 2025 Goals:
+- 🧠 Learn more about **AWS** and **System Design**.
+- 🚀 Deploy more end-to-end ML solutions in real-world environments
+- 📈 Contribute to impactful open-source AI/MLOps tools
 
-<h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching important AI real problems. I'm excited to put machine learning to good use. <br/> <b><a href="https://sushant097.github.io/">Read More</a></b></h3>
+### 💬 Let’s Chat About:
+- Deep Learning • Computer Vision • MLOps  
+- Python • Java • C++ • Application Design
 
+### ⚡ Fun Fact:
+I love simplifying complex DL concepts and creating unique side projects that make learning fun and practical!
 
+---
 
-- 🌱 Research Areas: **Computer Vision: Object Detection and tracking, GANs, segmentation etc.**
+🌐 Feel free to connect or check out what I’m building!  
 
-- 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning.
-- 🥅 2024 Goals: Read more Deep Learning research papers and try to build from scratch, including computer vision, GANs, few-shot learning, NLP, Image Segmentation, etc. I am looking forward to getting the AWS ML Specialization Certification exam.
-- 💬 Ask me about Deep Learning - Computer Vision, Python, JAVA, and C++.
-- ⚡ Fun fact: I love to do unique projects and simplify concepts in Deep Learning.
-- 📫 How to reach me: 
-  -    [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sushant097.github.io/)
-  -    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
-
-
-📕 Latest Blog Posts. See all posts in [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@sushantgautm)
-- [How to Make Real-Time Handwritten Text Recognition With Augmentation and Deep Learning](https://sushantgautm.medium.com/how-to-make-real-time-handwritten-text-recognition-with-augmentation-and-deep-learning-9281323d80c1)
-- [Intuition behind GAN for Beginners](https://medium.com/@sushantgautm/the-intuition-behind-gans-for-beginners-63b0b761961b)
-- [Basic Intuition And Guide to Neural Style Transfer](https://medium.com/@sushantgautm/basic-intuition-and-guide-to-neural-style-transfer-daf7022d6883)
-- [Simple and Intuitive Explanation of YOLO](https://medium.com/@sushantgautm/simple-and-intuitive-explanation-of-yolo-fc8fe231e2da)
 
 ![](https://komarev.com/ghpvc/?username=sushant097&color=green)   
 
