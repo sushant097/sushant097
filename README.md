@@ -40,7 +40,6 @@ I enjoy designing robust pipelines, optimizing models, and shipping AI products 
 - 💼 [LinkedIn](https://www.linkedin.com/in/susan-gautam/)  
 - ✍️ [Medium](https://medium.com/@susant)  
 - 💻 [GitHub](https://github.com/sushant097)  
-- 📧 mail.sushantgautam@icloud.com  
 
 ---
 
