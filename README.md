@@ -29,12 +29,6 @@ I enjoy designing robust pipelines, optimizing models, and shipping AI products 
 
 ---
 
-## 🎯 2025 Goals
-- Master **AWS & System Design**  
-- Deploy more **production-ready AI systems**  
-- Contribute to impactful **open-source AI/MLOps tools**  
-
----
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/susan-gautam/)  
